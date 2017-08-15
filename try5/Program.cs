@@ -10,9 +10,10 @@ namespace try5
     {
         static void Main(string[] args)
         {
-
+           // i did ti 
             Console.WriteLine("ABCDEFG");
             Console.ReadKey();
+            
         }
     }
 }
